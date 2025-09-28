@@ -2,7 +2,7 @@ import Queue from '../Data-Structures/Queue/Queue'
 
 /**
  * Author: Abhay Goel
- * Implementing Kahns Algortihm for a Directed Graph
+ * Implementing Kahns Algorithm for a Directed Graph
  * This algorithm uses the in-degree count of a node to process
  * It can be used to find Topological ordering , Cycle in a DAG.
  * Tutorial on Lowest Common Ancestor: [https://www.geeksforgeeks.org/cpp/kahns-algorithm-in-cpp/](https://www.geeksforgeeks.org/cpp/kahns-algorithm-in-cpp/)
